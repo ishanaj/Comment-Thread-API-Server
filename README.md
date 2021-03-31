@@ -1,4 +1,4 @@
-# Comment-Thread-API-Server
+# Threaded-Comments-API-Server
 Comment Thread API Server using Django and DRF
 
 ### Functionalities
